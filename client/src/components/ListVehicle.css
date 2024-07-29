@@ -1,0 +1,40 @@
+.list-vehicle {
+    padding-top: 80px;
+    color: black;
+}
+
+.list-vehicle h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.list-vehicle table {
+    width: 100%;
+    border-collapse: collapse;
+    color: black;
+    background-color: white;
+}
+
+.list-vehicle th, .list-vehicle td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.list-vehicle th {
+    background-color: black;
+    color: white;
+}
+
+.list-vehicle button {
+    padding: 5px 10px;
+    margin: 2px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.list-vehicle button:hover {
+    background-color: #0056b3;
+}
